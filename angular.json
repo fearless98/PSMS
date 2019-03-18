@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "../auction/node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
               "../auction/node_modules/jquery/dist/jquery.js",
